@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++, Hacking and game-dev
 - 🌱 I’m currently learning C++ and JS
 - 📫 How to reach me:
-- Telg: @iliopz
+- Telg: @bijfox
 - Inst: @ilia._.aili
 
 <!---
