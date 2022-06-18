@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilia-abbasi
-- 👀 I’m interested in C++, Hacking and game-dev
+- 👀 I’m interested in C++, Hacking and Backend development
 - 🌱 I’m currently learning C++ and PHP
 - 📫 How to reach me:
 - Telg: @bijfox
