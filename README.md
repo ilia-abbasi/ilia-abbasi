@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilia-abbasi
 - 👀 I’m interested in C++, Hacking and Backend development
-- 🌱 I’m currently learning C++ and PHP
+- 🌱 I’m currently learning Linux and PHP
 - 📫 How to reach me:
 - Telg: @bijfox
 - Inst: @ilia._.aili
