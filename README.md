@@ -4,6 +4,7 @@
 - 📫 How to reach me:
 - Inst: @ilia._.aili
 - Telg: @bijfox
+- Itch: iliaabbasi.itch.io
 
 <!---
 ilia-abbasi/ilia-abbasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
