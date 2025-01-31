@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilia-abbasi
-- 👀 I’m interested in C++, Hacking and Backend development
-- 🌱 I’m currently learning Godot and PHP
+- 👀 I’m interested in C++, Game development and Backend development
+- 🌱 I’m currently learning Godot
 - 📫 How to reach me:
 - Inst: @ilia._.aili
 - Telg: @bijfox
